@@ -1,4 +1,4 @@
-# Neural Network Modeling with LSTM, Hybrid LSTM-SVM, and QLSTM 
+#  Price prediction using Neural Network with LSTM, Hybrid LSTM-SVM, and QLSTM 
 
 This repository contains part of an M.Sc. Statistics project focused on predictive modeling using advanced neural architectures. It showcases three models: a recurrent LSTM, a hybrid LSTM-SVM, and an experimental quantum-inspired LSTM (QLSTM).
 
